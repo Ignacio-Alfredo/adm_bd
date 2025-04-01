@@ -1,0 +1,11 @@
+Tengo un conocimiento basico sobre lo quese muestra pero lo que me genero duda
+y que no conocia es lo de "tinyint" y despues de la investigacion entendi que 
+tinyint es que es un indicador de eliminación lógica lo que quiere decir que
+
+
+
+
+
+
+
+
